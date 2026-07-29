@@ -21,3 +21,6 @@ A full-stack digital wallet and payment application inspired by Paytm. This plat
    ```bash
    git clone [https://github.com/bhavya-negi/Paytm_Clone.git](https://github.com/bhavya-negi/Paytm_Clone.git)
    cd Paytm_Clone
+
+2. **Enter MONGODB URI(mongoURI) and JWT_SECRET**
+* In backend/config.js enter your mongoDb uri  and jwt_secret.
